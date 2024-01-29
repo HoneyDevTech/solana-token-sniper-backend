@@ -24,6 +24,6 @@ app.use(cors());
 app.use('/api/pairs', require('./routes/api/pairs'));
 
 
-const PORT = process.env.PORT || 5005;
+const PORT = 5005;
 
 app.listen(PORT, () => console.log(`Server started on port ${PORT}`));
