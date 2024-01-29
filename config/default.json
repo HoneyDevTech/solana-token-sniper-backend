@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://venuswhisperer412:KiyKflzC3QeXrBxe@cluster0.yoiecbo.mongodb.net/",
+  "jwtSecret": "secret"
+}
